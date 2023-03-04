@@ -5,7 +5,7 @@
   "homepage": "https://Alyona-Nekhryshchyniuk.github.io/resume_Alyona_Nekhryshchyniuk",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /resume_Alyona_Nekhryshchyniuk/"
   },
   "repository": {
     "type": "git",
