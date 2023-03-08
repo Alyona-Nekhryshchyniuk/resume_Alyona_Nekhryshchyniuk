@@ -112,6 +112,7 @@ h3 {
   font-size: 14px;
   font-weight: 400;
   text-align: justify;
+  color: #3f3e3e;
 }
 .work-position {
   font-style: normal;
@@ -153,7 +154,12 @@ h3 {
   line-height: 24px;
   color: #3f3e3e;
 }
-
+.education {
+  color: #3f3e3e;
+}
+.scope {
+  color: currentColor;
+}
 .education .title {
   margin-top: 55px;
 }
